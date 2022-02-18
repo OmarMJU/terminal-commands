@@ -1,0 +1,1060 @@
+/Users/omarjuarezurbina/.eclipse/org.eclipse.oomph.jreinfo/infos.txt
+/Users/omarjuarezurbina/.eclipse/org.eclipse.oomph.setup.installer/installRoot.txt
+/Users/omarjuarezurbina/.eclipse/org.eclipse.oomph.setup/setups/brandingNotificationURIs.txt
+/Users/omarjuarezurbina/eclipse/jee-2020-12/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/912/0/.cp/about_files/SLF4J-LICENSE.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/require-main-filename/LICENSE.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/tslib/CopyrightNotice.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/tslib/LICENSE.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/typescript/CopyrightNotice.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/typescript/LICENSE.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/typescript/ThirdPartyNoticeText.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/yargs-parser/LICENSE.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/lodash.isobject/LICENSE.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/buffer-equal-constant-time/LICENSE.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/cliui/LICENSE.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/rxjs/_esm5/LICENSE.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/rxjs/_esm2015/LICENSE.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/rxjs/LICENSE.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/rxjs/src/LICENSE.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/esquery/license.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/set-blocking/LICENSE.txt
+/Users/omarjuarezurbina/autocomplete/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.apache.commons.discovery_0.2.0.v201004190315/about_files/LICENSE.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.pde.ds.lib_1.1.400.v20191119-0943/about_files/LICENSE-2.0.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.m2e.maven.runtime.slf4j.simple_1.16.0.20200610-1735/about_files/slf4j-simple-LICENSE.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.m2e.maven.indexer_1.17.1.20201207-1112/about_files/LICENSE-2.0.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.pde.ds1_2.lib_1.0.400.v20191119-0943/about_files/LICENSE-2.0.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-jsonrpc/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-jsonrpc/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-json-languageservice/node_modules/vscode-languageserver-types/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-json-languageservice/node_modules/vscode-nls/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/typescript-template-language-service-decorator/LICENSE.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/request-light/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-chrome-debug-core/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-chrome-debug-core/LICENSE.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-languageserver-types/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-debugprotocol/LICENSE.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-languageserver-protocol/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-languageserver-protocol/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/less/test/browser/less/console-errors/test-error.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/less/test/browser/less/errors/image-size-error.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/less/test/browser/less/errors/image-height-error.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/less/test/browser/less/errors/image-width-error.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/tslib/CopyrightNotice.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/tslib/LICENSE.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/yaml-language-server/node_modules/vscode-jsonrpc/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/yaml-language-server/node_modules/vscode-jsonrpc/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/yaml-language-server/node_modules/request-light/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/yaml-language-server/node_modules/vscode-languageserver-protocol/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/yaml-language-server/node_modules/vscode-languageserver-protocol/node_modules/vscode-languageserver-types/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/yaml-language-server/node_modules/vscode-languageserver-protocol/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/yaml-language-server/node_modules/vscode-languageserver/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/yaml-language-server/node_modules/vscode-languageserver/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/typescript/CopyrightNotice.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/typescript/LICENSE.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/typescript/ThirdPartyNoticeText.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/yaml-language-server-parser/license.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/typescript-language-server/node_modules/vscode-languageserver/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/typescript-language-server/node_modules/vscode-languageserver/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-css-languageserver/node_modules/vscode-jsonrpc/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-css-languageserver/node_modules/vscode-jsonrpc/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-css-languageserver/node_modules/vscode-languageserver-types/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-css-languageserver/node_modules/vscode-languageserver-protocol/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-css-languageserver/node_modules/vscode-languageserver-protocol/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-css-languageserver/node_modules/vscode-languageserver/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-css-languageserver/node_modules/vscode-languageserver/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-css-languageserver/node_modules/vscode-nls/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-json-languageserver/node_modules/vscode-jsonrpc/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-json-languageserver/node_modules/vscode-jsonrpc/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-json-languageserver/node_modules/vscode-languageserver-types/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-json-languageserver/node_modules/vscode-languageserver-protocol/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-json-languageserver/node_modules/vscode-languageserver-protocol/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-json-languageserver/node_modules/vscode-languageserver/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-json-languageserver/node_modules/vscode-languageserver/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-debugadapter/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-debugadapter/LICENSE.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-languageserver-textdocument/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-html-languageserver/node_modules/vscode-jsonrpc/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-html-languageserver/node_modules/vscode-jsonrpc/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-html-languageserver/node_modules/vscode-languageserver-types/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-html-languageserver/node_modules/vscode-languageserver-protocol/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-html-languageserver/node_modules/vscode-languageserver-protocol/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-html-languageserver/node_modules/vscode-languageserver/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-html-languageserver/node_modules/vscode-languageserver/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-html-languageserver/node_modules/vscode-html-languageservice/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-html-languageserver/node_modules/vscode-nls/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/eslint-server/node_modules/vscode-jsonrpc/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/eslint-server/node_modules/vscode-jsonrpc/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/eslint-server/node_modules/vscode-languageserver-types/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/eslint-server/node_modules/vscode-languageserver-protocol/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/eslint-server/node_modules/vscode-languageserver-protocol/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/eslint-server/node_modules/vscode-languageserver/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/eslint-server/node_modules/vscode-languageserver/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/typescript-styled-plugin/LICENSE.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/debugger-for-chrome/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/debugger-for-chrome/LICENSE.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/jsonc-parser/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-languageserver/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-languageserver/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-html-languageservice/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/cssesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-nls/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-nls/License.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/typescript-lit-html-plugin/LICENSE.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/node-debug2/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/node-debug2/LICENSE.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/mkdirp/bin/usage.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/vscode-emmet-helper/thirdpartynotices.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_15.0.2.v20210201-0955/jre/conf/security/policy/README.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.apache.ant_1.10.9.v20201106-1946/about_files/THE_APACHE_SOFTWARE_LICENSE__VERSION_2.0.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.m2e.archetype.common_1.16.0.20201125-2132/about_files/LICENSE-2.0.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.m2e.archetype.common_1.16.0.20201125-2132/about_files/MPL-1.1.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.m2e.archetype.common_1.16.0.20201125-2132/about_files/LICENSE-1.1.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.m2e.archetype.common_1.16.0.20201125-2132/about_files/dom4j-LICENSE.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.m2e.archetype.common_1.16.0.20201125-2132/about_files/jdom-LICENSE.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.16.0.20200610-1735/about_files/LICENSE-2.0.txt
+/Users/omarjuarezurbina/.p2/pool/plugins/org.eclipse.pde.build_3.10.900.v20201111-1557/about_files/LICENSE-2.0.txt
+/Users/omarjuarezurbina/.p2/pool/features/org.eclipse.ecf.filetransfer.httpclient45.feature_1.0.702.v20201025-2303/asl-v20.txt
+/Users/omarjuarezurbina/.p2/pool/features/org.eclipse.ecf.filetransfer.feature_3.14.1702.v20201025-2315/asl-v20.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/weave/logs/error-sync-1644210007943.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/weave/logs/error-sync-1644729241116.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/weave/logs/error-sync-1644727875097.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/weave/logs/error-sync-1644727998233.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/weave/logs/error-sync-1644730182581.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/weave/logs/error-sync-1644726529818.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/weave/logs/error-sync-1644726922255.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/weave/logs/error-sync-1644725819782.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/weave/logs/error-sync-1644727960807.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/weave/logs/error-sync-1644729118700.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/weave/logs/error-sync-1644813723406.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/weave/logs/error-sync-1644726706813.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/weave/logs/error-sync-1644726896602.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/weave/logs/error-sync-1644729777701.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/pkcs11.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/AlternateServices.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/enumerate_devices.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/serviceworker.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/gmp-widevinecdm/4.10.2391.0/LICENSE.txt
+/Users/omarjuarezurbina/Library/Application Support/Firefox/Profiles/dwy3h09l.default-release/SiteSecurityServiceState.txt
+/Users/omarjuarezurbina/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/1d6549ababc852c1f8020f028e73af9539f38652/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Google/Chrome/Default/Extensions/gomekmidlodglbbmalcneegieacbdmki/21.0.101_0/scripts/contentGuides.js.LICENSE.txt
+/Users/omarjuarezurbina/Library/Application Support/Google/Chrome/Default/Extensions/gomekmidlodglbbmalcneegieacbdmki/21.0.101_0/scripts/contentAdvertisers.js.LICENSE.txt
+/Users/omarjuarezurbina/Library/Application Support/Google/Chrome/Default/Extensions/gomekmidlodglbbmalcneegieacbdmki/21.0.101_0/scripts/background.js.LICENSE.txt
+/Users/omarjuarezurbina/Library/Application Support/Google/Chrome/Default/Extensions/gomekmidlodglbbmalcneegieacbdmki/21.0.101_0/scripts/contentInject.js.LICENSE.txt
+/Users/omarjuarezurbina/Library/Application Support/Google/Chrome/ZxcvbnData/1/male_names.txt
+/Users/omarjuarezurbina/Library/Application Support/Google/Chrome/ZxcvbnData/1/english_wikipedia.txt
+/Users/omarjuarezurbina/Library/Application Support/Google/Chrome/ZxcvbnData/1/female_names.txt
+/Users/omarjuarezurbina/Library/Application Support/Google/Chrome/ZxcvbnData/1/passwords.txt
+/Users/omarjuarezurbina/Library/Application Support/Google/Chrome/ZxcvbnData/1/us_tv_and_film.txt
+/Users/omarjuarezurbina/Library/Application Support/Google/Chrome/ZxcvbnData/1/surnames.txt
+/Users/omarjuarezurbina/Library/Application Support/Google/Chrome/Subresource Filter/Unindexed Rules/9.32.0/LICENSE.txt
+/Users/omarjuarezurbina/Library/Application Support/Google/Chrome/chrome_shutdown_ms.txt
+/Users/omarjuarezurbina/Library/Application Support/Postman/Partitions/5bcca907-3fb9-44f0-861b-7761dc78d968/Service Worker/CacheStorage/53b563de69a8e9800e38f66c9c19e1e0dbd5106a/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/3087832d5fae9d6ce9bcd2c210c887d7cb1d9f21/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/2e9a9c6337e5325a1391fc1b208a7499e76335a8/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/b4cee5067e7853e46eb1b87189a543ab1c938228/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/54e7ccf8888aa0e8a2f11abc3d96924dee5cfd4b/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/f32ea2729c73d8670e2650b80e845a9db0985081/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/c68f48e472bf9ff5bd3e4019c56ce2c32bc168ad/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/91dbbc48919e09190083db7e61bb6afee321807b/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/69d71ef831e837c83b701697aa62bbc598087a4b/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/c4091178ca99e39d80672624a3d9a1ae9a73dd7d/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/e5fe13532be41d1fd04867d92d7e1a45c33c68ab/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/8759273423a751484e9669abe6906e297e1413c6/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/de1e80fbb84ee03587fdbc71b2efc1e285d5d1ff/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/cbe2b2dd9574f62f0375456af9d1fe6438cf9c0d/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/222f6a97ae3943c238b5c36f4df95a5da96e1d9d/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/9aa35f4e51ba290aab2ece14c4b6d47297f7493c/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/449a185709c63b0bf79238ae7761090dadd9fd30/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/7f2129a033540f402e2c209b26fd4d4948dc85e4/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/012c207ce74be2404427bc48e5945ac628ea7f6a/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/6aa05cf20880c7956dccfcefc2339de4af41cbc5/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/3cc4043e8aad3d320ccd5f0e394fa8caa62640a6/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/6a5ef0c1838c2aac23927faa43906467e9c5c886/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/96c80ae64b7fadea4f6d067bf7b9aa70d578c3d5/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/85fac43ac1596d685fe189d5f93aede71b5979cb/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/5538605038aa5a6cc9f47f839f186e6d82302ee5/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/e62273cff5c3301fa0e1930bcc897f8adcc736f9/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/73c9e1b57f5f8b22b5df6335947e2e4651b766f2/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/d87af9e984e9e17d241013ea6c11da8acdfef80e/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/fb0efa0c3ffddcc59903a2b738bb1726e14f6f29/index.txt
+/Users/omarjuarezurbina/Library/Application Support/Code/Service Worker/CacheStorage/4471c15554d2511824082b7b866613e709d5594d/index.txt
+/Users/omarjuarezurbina/Library/Application Support/CloudDocs/F0AD4833-E938-52EB-96D6-ABB6D6C5A1D0.txt
+/Users/omarjuarezurbina/Library/Application Support/Arobas Music/guitarpro7/log.txt
+/Users/omarjuarezurbina/Library/Application Support/Arobas Music/guitarpro7/error.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/FontCache/LodingFont.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/Log/XPCLogService/xpclog.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/Log/MultiPlatform/Log/Log.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/Log/NLEPlatform/Log/NLELog.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/68515e14bbdc32aebdcda6cd8e3d3921.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/31796c6a16ae203bcd1bd66c0e6c230d.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/388c5d93d241e3ea0e17a213bba669f5.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/ffaa6296777024558170d0a9c328c51e.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/89b4193a59fdc599d91b48af7bb22974.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/173e98bbba4bb3d69b9b8c764f1ea58d.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/aad8dff5268780f3db1b095cef00f1ca.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/0aa45ee7c84db19d9adeec9d0cbc6969.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/73c482afb97d9c2f119264b7cf000dc5.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/18ea9df1ea37b796928c99f24b0fd6ae.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/46d1fbb564a1ab9a5b9d0b57fe7deb81.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/c9504ab8177a4d3557b41f787d689c91.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/e28793d06d1f671dc576d316909d4cef.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/e0716ee23656b606af6a361d7e8a9028.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/b59a9ae75a9cc33e6b1291f83a82849c.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/d2955e340cb90200f0b6be5d726f8309.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/c64962237c526f258de38101666425ff.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/d8359235973bd209c2bec9fe727e8bed.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/817373b031da0ff3f1ec18cd0e2e8e76.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/882b9459b2b75be456eddcaf4bf10b01.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/502e443bacd78fcd52a89b5b8ea0b035.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/18a0ecbf39270a75bd8971b8d59617dc.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/11ffd1a830dc9da9706430b47678da04.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/fd5c80ef5f40cde8ebfa52af723c73a2.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/59879ad7ef5ae49d1bc55f99d1bca85d.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/9b5e2e4651a8d1f030eea2c5782e0b3c.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/18b99afa8d8c3686bf788db966110b12.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/2affbc2eddc68e0d9765cbe052281223.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/ea2681c0ffce247fec1b0fd08c792d37.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/935e06f790143a2f00fab03986488f1d.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/562e8358863a23914c40d13f95d060e2.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/9f81d5d082e2f06815e0e71a45ba35c7.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/5ebedc1007213bf9c2624ea7fed477e3.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/1fd236db13ca6c8ccdc47700ac0216e7.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/0463e6bc2f2701ab5d2fd9b19a0ace93.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/7dd30b4c03fcd5b4a39c1844e940ebee.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/5b0e850971417ba587f7659e214c3c29.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/4fb3469d881fb699e9b94dfc2f404e98.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/5cf399f76ca79e4e6c5c0171eb948860.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/0fc93f4c65e166cf38324d69774aca8d.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/af422688929d13526a4b15b86d3cb39d.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/823eef9639c975444d33ed05261063ac.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/6d8bcc4ae54a6917c2f2ff34b352ee4d.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/ffe815217bdd91a274b9fcf7f08349d3.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/e5895cca9a1c56403677f1206fae456c.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/3da788cc1fa70f80b022a9232128f233.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/7ff97b2cb98c77e1b04486c3676a918f.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/f5d528b22769021880898831954b6ba5.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/51f352b548220971551948157baf3b81.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/a208b7b52a319887c4e65c30979c2d66.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/f443728d2567f2de82531690120d79dc.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/b4b5a618fcfe2182d9e2d2b831505a27.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/bd4feafa307da6e7f45373b254895e15.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/3d8dbad25fe20f3d7cdce0eb6ee1a421.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/ec355410d57cc5575ec50a0e571815a8.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/09f92b9e85981f46dfc9c9fc481cef1a.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/9e1ff5b16cb43313a709f115160c9181.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/f0e622074b9ab19e7b1a347eb32db303.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/9eed912bf25025d08489a33e3af4be35.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/5bcd849808da8cb23158a6d1792d3080.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/78028704b906c98dbb477363a32ff19a.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/5e067de39b71220ea823a70f58bf146a.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/230d1dcaf630727b6959ed3c7e052162.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/03897fc15281165dfc99bbdfc3a9f4e5.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/b903ed3a057f327f83bd9e19a77ea713.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/63d122c67049096b83162be024240981.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/7bff5498830ebfce320e61c2fd6b0d09.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/e783f4ce39752890e6ac229538bbb0f6.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/1d75ba4c566a464d644cc20ad732dc18.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/2cc054e2b5a645ea9a48d97e493249d4.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/159d7b1c324282d21189588cedc76687.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/94f0bf6931ae6a3034de1f91d5e9f7bf.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/63c1368b291bfd6e0cab239d77fbbed0.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/da37dcffe2ced95b91dd2f546b35c93d.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/f56d6df3498ea307bd0f71c983974e5b.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/cc17290d78b027ae29387e80717f03b8.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/f299dc46979a2861691da7a55924ab3c.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/3960281ced213a2205de571232cd88d5.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/47a4067895f8a8fef943199045c55924.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/7520b3359d8e7b883cfe047468d1fd64.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/8b9ca91514b4bf6f8c2c0deaf14dd0f1.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/5d44f94b63ce01fb09b1e8f16cad0db9.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/79945ac348ffd114e5d963efbe3417b4.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/c6aab3d97de2886a0830be2d5544d1ba.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/8dede23b60b109a87b18cab3bf8eed22.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/ff6ab3179a938195c6d017670f8bcf0f.txt
+/Users/omarjuarezurbina/Library/Application Support/Wondershare Filmora9/BeatPreset/4c17fd0e119a6936b57d71e3a8fec326.txt
+/Users/omarjuarezurbina/Library/Application Support/JREInstaller/JREInstallLog.txt
+/Users/omarjuarezurbina/Library/Python/3.9/lib/python/site-packages/powerline_status-2.7.dist-info/top_level.txt
+/Users/omarjuarezurbina/Library/Python/3.9/lib/python/site-packages/powerline_gitstatus-1.3.1.dist-info/top_level.txt
+/Users/omarjuarezurbina/Library/Trial/schemaVersion.txt
+/Users/omarjuarezurbina/Library/Logs/com.apple.AMPLibraryAgent/iTunes Migration/iTunes Migration Log [2021-03-10 19.03.14].txt
+/Users/omarjuarezurbina/Library/Group Containers/group.com.docker/DockerAppStderr.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2022-2-14_00-00-00.438.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2022-2-4_00-11-55.392.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2021-12-7_23-35-55.329.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2021-12-9_01-39-15.318.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2021-12-11_22-01-46.259.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2021-12-14_23-01-58.879.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2022-1-4_23-18-35.164.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2022-2-7_21-40-19.895.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2021-11-29_23-16-30.749.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2022-1-22_02-01-17.914.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2022-2-10_00-39-09.847.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2022-1-24_20-41-31.604.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2022-1-30_22-11-29.582.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2021-12-1_00-14-22.078.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2022-1-6_23-54-55.775.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2022-1-1_17-30-11.659.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2022-2-5_22-08-49.840.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2022-1-28_01-52-33.702.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2022-1-27_18-45-26.571.txt
+/Users/omarjuarezurbina/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2022-1-2_13-21-00.235.txt
+/Users/omarjuarezurbina/Library/Containers/com.apple.iWork.Numbers/Data/Library/Caches/Brushes/TSDBrushCacheVersion.txt
+/Users/omarjuarezurbina/Library/Containers/com.apple.iWork.Pages/Data/Library/Caches/Brushes/TSDBrushCacheVersion.txt
+/Users/omarjuarezurbina/Library/Containers/desktop.WhatsApp/Data/Library/Application Support/WhatsApp/voip_crash_log.txt
+/Users/omarjuarezurbina/Library/Containers/desktop.WhatsApp/Data/Library/Application Support/WhatsApp/Service Worker/CacheStorage/3e8ad32ef6e0ff2c8dfb0722a7a862f0a1038fb3/index.txt
+/Users/omarjuarezurbina/Library/Containers/com.apple.AppStore/Data/Library/Caches/com.apple.AppleMediaServices/sap-setup-cert.txt
+/Users/omarjuarezurbina/Library/Containers/com.apple.stocks.widget/Data/Library/Caches/com.apple.AppleMediaServices/sap-setup-cert.txt
+/Users/omarjuarezurbina/Library/Caches/SentryCrash/fig/Data/ConsoleLog.txt
+/Users/omarjuarezurbina/Library/Caches/typescript/4.5/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Library/Caches/typescript/4.5/node_modules/whatwg-url/LICENSE.txt
+/Users/omarjuarezurbina/Library/Caches/typescript/4.5/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Library/Caches/typescript/4.2/node_modules/string-width/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Library/Caches/typescript/4.2/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Library/Caches/typescript/4.4/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Library/Caches/Homebrew/external_commands_list.txt
+/Users/omarjuarezurbina/Library/Caches/Homebrew/all_commands_list.txt
+/Users/omarjuarezurbina/Library/Caches/com.apple.AppleMediaServices/Engagement/clientData.txt
+/Users/omarjuarezurbina/Library/Caches/com.apple.AppleMediaServices/sap-setup-cert.txt
+/Users/omarjuarezurbina/Library/Caches/com.spotify.client/Browser/Service Worker/CacheStorage/e9e20933b78806f5d80c7a741788760ea29d6bc7/index.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/logs/localhost_access_log.2021-11-30.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/indexNamesMap.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-darwin-x64/lib/node_modules/npm/node_modules/require-main-filename/LICENSE.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-darwin-x64/lib/node_modules/npm/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-darwin-x64/lib/node_modules/npm/node_modules/lodash._baseindexof/LICENSE.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-darwin-x64/lib/node_modules/npm/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-darwin-x64/lib/node_modules/npm/node_modules/yargs-parser/LICENSE.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-darwin-x64/lib/node_modules/npm/node_modules/path-is-inside/LICENSE.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-darwin-x64/lib/node_modules/npm/node_modules/opener/LICENSE.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-darwin-x64/lib/node_modules/npm/node_modules/lodash._bindcallback/LICENSE.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-darwin-x64/lib/node_modules/npm/node_modules/cliui/LICENSE.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-darwin-x64/lib/node_modules/npm/node_modules/sorted-object/LICENSE.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-darwin-x64/lib/node_modules/npm/node_modules/set-blocking/LICENSE.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-darwin-x64/lib/node_modules/npm/node_modules/lodash._cacheindexof/LICENSE.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-darwin-x64/lib/node_modules/npm/node_modules/dashdash/LICENSE.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-darwin-x64/lib/node_modules/npm/node_modules/mkdirp/bin/usage.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-darwin-x64/lib/node_modules/npm/node_modules/performance-now/license.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v12.16.1-darwin-x64/lib/node_modules/npm/node_modules/lodash.restparam/LICENSE.txt
+/Users/omarjuarezurbina/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt
+/Users/omarjuarezurbina/getting-started/requirements.txt
+/Users/omarjuarezurbina/Movies/repaired/repair-tmp/Recording_3/log.txt
+/Users/omarjuarezurbina/Movies/repaired/Recording_3/logz.txt
+/Users/omarjuarezurbina/Movies/repaired/Recording_3/upload-tmp/repairInfo.txt
+/Users/omarjuarezurbina/Movies/repaired/Recording_3/upload-tmp/logz.txt
+/Users/omarjuarezurbina/.npm/eresolve-report.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Docker/Dockerfiles/ImgDockerFilesPt2/InstructionAddCopy/Datas/Archivo.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Docker/Dockerfiles/ImgDockerFilesPt2/InstructionAddCopy/Comprimidos/archivo1.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Docker/Dockerfiles/ImgDockerFilesPt2/InstructionAddCopy/Comprimidos/archivo2.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Docker/Volumenes-Docker/DockerVol-Fedora/prueba/archivo_prueba.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/cryptoprice-dashboard/bower_components/marked/man/marked.1.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/cryptoprice-dashboard/bower_components/polymer/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/cryptoprice-dashboard/bower_components/sinon-chai/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/cryptoprice-dashboard/bower_components/webcomponentsjs/closure-output.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/cryptoprice-dashboard/bower_components/webcomponentsjs/license-header.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/cryptoprice-dashboard/bower_components/web-component-tester/data/a11ySuite-npm-header.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/app-polymer/node_modules/he/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/app-polymer/node_modules/require-main-filename/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/app-polymer/node_modules/@polymer/polymer/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/app-polymer/node_modules/marked/man/marked.1.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/app-polymer/node_modules/yargs-parser/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/app-polymer/node_modules/cliui/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/app-polymer/node_modules/set-blocking/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/app-polymer/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/app-polymer/node_modules/mkdirp/bin/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/omju-component/bower_components/marked/man/marked.1.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/omju-component/bower_components/polymer/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/omju-component/bower_components/sinon-chai/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/omju-component/bower_components/webcomponentsjs/closure-output.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/omju-component/bower_components/webcomponentsjs/license-header.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/Polymer/omju-component/bower_components/web-component-tester/data/a11ySuite-npm-header.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/test-exclude/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/jsesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/lodash._reinterpolate/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/he/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/require-main-filename/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/dot-case/node_modules/tslib/CopyrightNotice.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/dot-case/node_modules/tslib/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/cssstyle/node_modules/cssom/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/chrome-trace-event/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/html-encoding-sniffer/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/is-potential-custom-element-name/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/regexpu-core/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/node-libs-browser/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/v8-to-istanbul/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/unicode-match-property-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/tslib/CopyrightNotice.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/tslib/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/stream-http/test/server/static/basic.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/string-natural-compare/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/yargs-parser/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/regenerate/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/setimmediate/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/recursive-readdir/test/testdirBeta/ignore.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/recursive-readdir/test/testdir/c.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/recursive-readdir/test/testdir/d.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/whatwg-url/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/domexception/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/regjsgen/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/deepmerge/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/param-case/node_modules/tslib/CopyrightNotice.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/param-case/node_modules/tslib/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/css-has-pseudo/node_modules/cssesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/xml-name-validator/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/eslint-plugin-jsx-a11y/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/path-is-inside/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/postcss-pseudo-class-any-link/node_modules/cssesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/url/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/html-escaper/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/pascal-case/node_modules/tslib/CopyrightNotice.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/pascal-case/node_modules/tslib/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/jsdom/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/postcss-dir-pseudo-class/node_modules/cssesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/postcss-custom-selectors/node_modules/cssesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/regjsparser/node_modules/jsesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/unicode-match-property-value-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/webpack-dev-server/node_modules/yargs-parser/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/webpack-dev-server/node_modules/cliui/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/webpack-dev-server/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/no-case/node_modules/tslib/CopyrightNotice.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/no-case/node_modules/tslib/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/data-urls/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/address/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/whatwg-encoding/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/unicode-canonical-property-names-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/@webassemblyjs/leb128/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/cssom/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/cliui/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/whatwg-mimetype/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/unicode-property-aliases-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/exit/test/fixtures/1000-stdout.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/exit/test/fixtures/100-stdout-stderr.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/exit/test/fixtures/1000-stdout-stderr.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/exit/test/fixtures/10-stderr.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/exit/test/fixtures/100-stderr.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/exit/test/fixtures/1000-stderr.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/exit/test/fixtures/10-stdout-stderr.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/exit/test/fixtures/10-stdout.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/exit/test/fixtures/100-stdout.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/eslint/messages/whitespace-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/eslint/messages/failed-to-read-json.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/eslint/messages/plugin-missing.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/eslint/messages/plugin-invalid.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/eslint/messages/extend-config-missing.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/eslint/messages/no-config-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/eslint/messages/all-files-ignored.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/eslint/messages/print-config-with-directory-path.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/eslint/messages/plugin-conflict.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/eslint/messages/file-not-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/esquery/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/cssesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/css.escape/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/@bcoe/v8-coverage/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/set-blocking/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/lz-string/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/dashdash/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/lower-case/node_modules/tslib/CopyrightNotice.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/lower-case/node_modules/tslib/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/mkdirp/bin/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/regenerate-unicode-properties/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/camel-case/node_modules/tslib/CopyrightNotice.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/camel-case/node_modules/tslib/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/node_modules/performance-now/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Udemy/ReactJs/calculadora-react/public/robots.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Menus/Febrero/01-Animated ContentMenu/images/ImageAttribution.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Menus/Febrero/03-AnimatedBorderMenus/AnimatedBorderMenus/fonts/demoicons/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Menus/Febrero/03-AnimatedBorderMenus/AnimatedBorderMenus/fonts/codropsicons/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Git/MediK_MJ/MediKProyect/nuevo_pull.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Git/MediKProyect/nuevo_pull.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/02-Programacion_Basica/Arduinode/node_modules/prebuild-install/help.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/02-Programacion_Basica/Arduinode/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/02-Programacion_Basica/Arduinode/node_modules/tar-fs/test/fixtures/a/hello.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/02-Programacion_Basica/Arduinode/node_modules/tar-fs/test/fixtures/b/a/test.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/02-Programacion_Basica/Arduinode/node_modules/set-blocking/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/02-Programacion_Basica/Arduinode/node_modules/mkdirp/bin/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/test-exclude/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/jsesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/lodash._reinterpolate/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/he/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/require-main-filename/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/cssstyle/MIT-LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/chrome-trace-event/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/html-encoding-sniffer/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/wrap-ansi/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/regexpu-core/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/node-libs-browser/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/unicode-match-property-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/tslib/CopyrightNotice.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/tslib/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/jest-environment-jsdom-fourteen/node_modules/whatwg-url/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/stream-http/test/server/static/basic.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/yargs-parser/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/regenerate/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/setimmediate/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/recursive-readdir/test/testdirBeta/ignore.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/recursive-readdir/test/testdir/c.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/recursive-readdir/test/testdir/d.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/whatwg-url/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/domexception/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/regjsgen/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/css-has-pseudo/node_modules/cssesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/xml-name-validator/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/eslint-plugin-jsx-a11y/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/path-is-inside/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/postcss-pseudo-class-any-link/node_modules/cssesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/url/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/html-escaper/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/jsdom/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/postcss-dir-pseudo-class/node_modules/cssesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/postcss-custom-selectors/node_modules/cssesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/regjsparser/node_modules/jsesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/unicode-match-property-value-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/webpack-dev-server/node_modules/require-main-filename/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/webpack-dev-server/node_modules/yargs-parser/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/webpack-dev-server/node_modules/cliui/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/table/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/data-urls/node_modules/whatwg-url/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/data-urls/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/address/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/whatwg-encoding/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/unicode-canonical-property-names-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/@webassemblyjs/leb128/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/cssom/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/cliui/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/cliui/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/whatwg-mimetype/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/unicode-property-aliases-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/exit/test/fixtures/1000-stdout.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/exit/test/fixtures/100-stdout-stderr.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/exit/test/fixtures/1000-stdout-stderr.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/exit/test/fixtures/10-stderr.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/exit/test/fixtures/100-stderr.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/exit/test/fixtures/1000-stderr.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/exit/test/fixtures/10-stdout-stderr.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/exit/test/fixtures/10-stdout.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/exit/test/fixtures/100-stdout.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/yargs/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/rxjs/_esm5/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/rxjs/_esm2015/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/rxjs/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/rxjs/src/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/eslint/messages/whitespace-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/eslint/messages/failed-to-read-json.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/eslint/messages/plugin-missing.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/eslint/messages/extend-config-missing.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/eslint/messages/no-config-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/eslint/messages/all-files-ignored.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/eslint/messages/print-config-with-directory-path.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/eslint/messages/file-not-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/esquery/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/cssesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/css.escape/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/set-blocking/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/dashdash/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/mkdirp/bin/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/regenerate-unicode-properties/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/node_modules/performance-now/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/proyecto-bebe/public/robots.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/jsesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/he/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/require-main-filename/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/chrome-trace-event/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/regexpu-core/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/node-libs-browser/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/unicode-match-property-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/tslib/CopyrightNotice.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/tslib/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/stream-http/test/server/static/basic.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/yargs-parser/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/regenerate/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/setimmediate/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/regjsgen/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/eslint-plugin-jsx-a11y/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/path-is-inside/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/url/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/regjsparser/node_modules/jsesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/unicode-match-property-value-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/unicode-canonical-property-names-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/@webassemblyjs/leb128/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/cliui/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/unicode-property-aliases-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/eslint/messages/whitespace-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/eslint/messages/failed-to-read-json.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/eslint/messages/plugin-missing.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/eslint/messages/extend-config-missing.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/eslint/messages/no-config-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/eslint/messages/all-files-ignored.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/eslint/messages/print-config-with-directory-path.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/eslint/messages/plugin-conflict.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/eslint/messages/file-not-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/esquery/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/cssesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/set-blocking/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/dashdash/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/mkdirp/bin/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/regenerate-unicode-properties/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/11-Curso-Practico-React/platziVideo-React/node_modules/performance-now/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/jsesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/he/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/require-main-filename/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/chrome-trace-event/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/regexpu-core/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/node-libs-browser/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/unicode-match-property-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/tslib/CopyrightNotice.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/tslib/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/stream-http/test/server/static/basic.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/yargs-parser/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/regenerate/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/setimmediate/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/regjsgen/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/eslint-plugin-jsx-a11y/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/path-is-inside/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/url/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/regjsparser/node_modules/jsesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/unicode-match-property-value-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/unicode-canonical-property-names-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/@webassemblyjs/leb128/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/cliui/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/unicode-property-aliases-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/eslint/messages/whitespace-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/eslint/messages/failed-to-read-json.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/eslint/messages/plugin-missing.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/eslint/messages/extend-config-missing.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/eslint/messages/no-config-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/eslint/messages/all-files-ignored.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/eslint/messages/print-config-with-directory-path.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/eslint/messages/plugin-conflict.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/eslint/messages/file-not-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/esquery/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/cssesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/set-blocking/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/dashdash/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/mkdirp/bin/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/regenerate-unicode-properties/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/05-Fronted_Developer/app-frontend/node_modules/performance-now/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/03-Docker/imagenes/nodeJs_App/docker/node_modules/he/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/03-Docker/imagenes/nodeJs_App/docker/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/03-Docker/imagenes/nodeJs_App/docker/node_modules/path-is-inside/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/03-Docker/imagenes/nodeJs_App/docker/node_modules/nodemon/doc/cli/topics.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/03-Docker/imagenes/nodeJs_App/docker/node_modules/nodemon/doc/cli/whoami.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/03-Docker/imagenes/nodeJs_App/docker/node_modules/nodemon/doc/cli/config.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/03-Docker/imagenes/nodeJs_App/docker/node_modules/nodemon/doc/cli/help.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/03-Docker/imagenes/nodeJs_App/docker/node_modules/nodemon/doc/cli/logo.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/03-Docker/imagenes/nodeJs_App/docker/node_modules/nodemon/doc/cli/authors.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/03-Docker/imagenes/nodeJs_App/docker/node_modules/nodemon/doc/cli/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/03-Docker/imagenes/nodeJs_App/docker/node_modules/nodemon/doc/cli/options.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/03-Docker/imagenes/nodeJs_App/docker/node_modules/mkdirp/bin/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/03-Docker/mongoData/HolaMongo.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/15-IntroduccionTerminal/cowsay.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/15-IntroduccionTerminal/misTxt.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/15-IntroduccionTerminal/find.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/resources/file.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/scrapping/node_modules/tar-fs/test/fixtures/a/hello.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/scrapping/node_modules/tar-fs/test/fixtures/b/a/test.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/electron/node_modules/boolean/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/electron/node_modules/electron/path.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/electron/node_modules/mkdirp/bin/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/xmlhttprequest-ssl/tests/testdata.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/lodash._reinterpolate/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/require-main-filename/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/lodash._isiterateecall/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/globule/test/fixtures/expand/deep/deeper/deepest/deepest.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/globule/test/fixtures/expand/deep/deeper/deeper.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/globule/test/fixtures/expand/deep/deep.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/globule/node_modules/lodash/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/lodash._basevalues/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/lodash._reescape/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/yargs-parser/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/wtf-8/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/lodash._reevaluate/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/cliui/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/set-blocking/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/lodash._basecopy/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/mkdirp/bin/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/gulp-server-livereload/node_modules/graceful-fs/heap.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/herramientas/automatizacion/node_modules/lodash.restparam/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/utils-modules/node_modules/prebuild-install/help.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/utils-modules/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/utils-modules/node_modules/whatwg-url/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/utils-modules/node_modules/tar-fs/test/fixtures/a/hello.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/utils-modules/node_modules/tar-fs/test/fixtures/b/a/test.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/utils-modules/node_modules/set-blocking/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/paquetes/node_modules/prebuild-install/help.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/paquetes/node_modules/needle/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/paquetes/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/paquetes/node_modules/tar-fs/test/fixtures/a/hello.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/paquetes/node_modules/tar-fs/test/fixtures/b/a/test.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/paquetes/node_modules/set-blocking/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/paquetes/node_modules/mkdirp/bin/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/12-Fundamentos-NodeJs/node_bebe/paquetes/memora/input.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/16-Programacion-Estructurada/myTest/myFile.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/require-main-filename/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/wkx/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/yargs-parser/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/faker/MIT-LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/cliui/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/esquery/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/nodemon/doc/cli/topics.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/nodemon/doc/cli/whoami.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/nodemon/doc/cli/config.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/nodemon/doc/cli/help.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/nodemon/doc/cli/logo.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/nodemon/doc/cli/authors.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/nodemon/doc/cli/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/nodemon/doc/cli/options.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/set-blocking/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/14-Backend_NJ-Express/myStore/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/test-exclude/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/jsesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/he/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/require-main-filename/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/workerpool/dist/workerpool.min.js.LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/tslib/CopyrightNotice.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/tslib/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/yargs-parser/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/html-escaper/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/ansi-align/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/cliui/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/rxjs/_esm5/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/rxjs/_esm2015/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/rxjs/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/rxjs/src/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/eslint/messages/whitespace-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/eslint/messages/failed-to-read-json.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/eslint/messages/plugin-missing.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/eslint/messages/plugin-invalid.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/eslint/messages/extend-config-missing.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/eslint/messages/no-config-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/eslint/messages/all-files-ignored.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/eslint/messages/print-config-with-directory-path.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/eslint/messages/plugin-conflict.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/eslint/messages/file-not-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/esquery/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/nodemon/doc/cli/topics.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/nodemon/doc/cli/whoami.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/nodemon/doc/cli/config.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/nodemon/doc/cli/help.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/nodemon/doc/cli/logo.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/nodemon/doc/cli/authors.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/nodemon/doc/cli/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/nodemon/doc/cli/options.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/set-blocking/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/nyc/node_modules/yargs-parser/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/nyc/node_modules/cliui/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/movies-api/node_modules/nyc/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/os-files/the-start-of-something-beautiful.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/tslib/CopyrightNotice.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/tslib/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/ansi-align/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/rxjs/_esm5/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/rxjs/_esm2015/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/rxjs/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/rxjs/src/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/eslint/messages/whitespace-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/eslint/messages/failed-to-read-json.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/eslint/messages/plugin-missing.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/eslint/messages/plugin-invalid.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/eslint/messages/extend-config-missing.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/eslint/messages/no-config-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/eslint/messages/all-files-ignored.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/eslint/messages/print-config-with-directory-path.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/eslint/messages/plugin-conflict.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/eslint/messages/file-not-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/esquery/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/nodemon/doc/cli/topics.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/nodemon/doc/cli/whoami.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/nodemon/doc/cli/config.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/nodemon/doc/cli/help.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/nodemon/doc/cli/logo.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/nodemon/doc/cli/authors.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/nodemon/doc/cli/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/nodemon/doc/cli/options.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-server/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/tslib/CopyrightNotice.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/tslib/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/ansi-align/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/rxjs/_esm5/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/rxjs/_esm2015/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/rxjs/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/rxjs/src/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/eslint/messages/whitespace-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/eslint/messages/failed-to-read-json.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/eslint/messages/plugin-missing.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/eslint/messages/plugin-invalid.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/eslint/messages/extend-config-missing.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/eslint/messages/no-config-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/eslint/messages/all-files-ignored.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/eslint/messages/print-config-with-directory-path.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/eslint/messages/plugin-conflict.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/eslint/messages/file-not-found.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/esquery/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/nodemon/doc/cli/topics.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/nodemon/doc/cli/whoami.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/nodemon/doc/cli/config.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/nodemon/doc/cli/help.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/nodemon/doc/cli/logo.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/nodemon/doc/cli/authors.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/nodemon/doc/cli/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/nodemon/doc/cli/options.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/13-Backend_NodeJS/arquitecturaNodeJs/express-bisiesto/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/04-Git_GitHub/hyperblog/historia.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/jsesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/quote-stream/bin/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/require-main-filename/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/cssstyle/MIT-LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/static-module/test/many/c.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/static-module/test/many/b.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/static-module/test/many/a.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/static-module/test/mixed/xyz.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/static-module/test/readfile_resolve/node_modules/aaa/wow.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/static-module/test/brfs/x.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/static-module/test/fs_twice/x.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/static-module/test/fs/x.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/static-module/example/brfs/x.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/static-module/example/fs/x.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/html-encoding-sniffer/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/regexpu-core/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/node-libs-browser/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/unicode-match-property-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/stream-http/test/server/static/basic.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/tiny-inflate/test/lorem.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/typescript/CopyrightNotice.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/typescript/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/typescript/ThirdPartyNoticeText.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/yargs-parser/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/regenerate/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/setimmediate/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/whatwg-url/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/domexception/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/regjsgen/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/xml-name-validator/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/url/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/grapheme-breaker/test/GraphemeBreakTest.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/jsdom/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/regjsparser/node_modules/jsesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/unicode-match-property-value-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/data-urls/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/whatwg-encoding/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/unicode-canonical-property-names-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/htmlnano/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/cssom/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/cliui/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/whatwg-mimetype/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/unicode-property-aliases-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/@parcel/watcher/test/tmp/file1.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/brfs/test/require_resolve/node_modules/aaa/wow.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/brfs/test/files/async.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/brfs/test/files/separators.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/brfs/bin/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/cssesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/set-blocking/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/ansi-to-html/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/dashdash/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/mkdirp/bin/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/regenerate-unicode-properties/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/website/node_modules/performance-now/license.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/jsesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/quote-stream/bin/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/require-main-filename/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/cssstyle/MIT-LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/static-module/test/many/c.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/static-module/test/many/b.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/static-module/test/many/a.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/static-module/test/mixed/xyz.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/static-module/test/readfile_resolve/node_modules/aaa/wow.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/static-module/test/brfs/x.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/static-module/test/fs_twice/x.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/static-module/test/fs/x.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/static-module/example/brfs/x.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/static-module/example/fs/x.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/html-encoding-sniffer/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/regexpu-core/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/node-libs-browser/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/unicode-match-property-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/stream-http/test/server/static/basic.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/tiny-inflate/test/lorem.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/yargs-parser/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/regenerate/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/setimmediate/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/whatwg-url/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/domexception/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/regjsgen/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/xml-name-validator/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/url/node_modules/punycode/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/grapheme-breaker/test/GraphemeBreakTest.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/jsdom/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/regjsparser/node_modules/jsesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/unicode-match-property-value-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/data-urls/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/whatwg-encoding/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/unicode-canonical-property-names-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/htmlnano/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/cssom/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/cliui/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/whatwg-mimetype/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/unicode-property-aliases-ecmascript/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/@parcel/watcher/test/tmp/file1.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/brfs/test/require_resolve/node_modules/aaa/wow.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/brfs/test/files/async.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/brfs/test/files/separators.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/brfs/bin/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/cssesc/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/set-blocking/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/ansi-to-html/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/dashdash/LICENSE.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/emoji-regex/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/mkdirp/bin/usage.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/regenerate-unicode-properties/LICENSE-MIT.txt
+/Users/omarjuarezurbina/Documents/Proyectos/Platzi/10-Curso-Profesional-JS/javascript-profesional/node_modules/performance-now/license.txt
+/Users/omarjuarezurbina/Documents/Java/Servers/apache-tomcat-9.0.30/webapps/docs/RELEASE-NOTES.txt
+/Users/omarjuarezurbina/Documents/Java/Servers/apache-tomcat-9.0.30/webapps/docs/appdev/sample/docs/README.txt
+/Users/omarjuarezurbina/Documents/Java/Servers/apache-tomcat-9.0.30/webapps/docs/appdev/web.xml.txt
+/Users/omarjuarezurbina/Documents/Java/Servers/apache-tomcat-9.0.30/webapps/docs/appdev/build.xml.txt
+/Users/omarjuarezurbina/Documents/Java/Servers/apache-tomcat-9.0.30/webapps/docs/architecture/startup/serverStartup.txt
+/Users/omarjuarezurbina/Documents/Java/Servers/apache-tomcat-9.0.30/webapps/docs/RUNNING.txt
+/Users/omarjuarezurbina/Documents/Java/Servers/apache-tomcat-9.0.30/webapps/docs/BUILDING.txt
+/Users/omarjuarezurbina/Documents/Java/Servers/apache-tomcat-9.0.30/webapps/ROOT/RELEASE-NOTES.txt
+/Users/omarjuarezurbina/Documents/Java/Servers/apache-tomcat-9.0.30/RUNNING.txt
+/Users/omarjuarezurbina/Documents/Java/Servers/apache-tomcat-9.0.30/BUILDING.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/UbuntuMono/LICENCE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/Tinos/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/Monofur/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/NotoMono/LICENSE_OFL.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/DroidSansMono/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/SymbolNeu/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/SourceCodePro/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/NovaMono/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/DroidSansMonoDotted/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/Arimo/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/Terminus/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/LiberationMono/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/AnonymousPro/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/Hack/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/Cousine/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/DejaVuSansMono/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/Inconsolata/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/Meslo Slashed/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/RobotoMono/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/Inconsolata-g/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/InconsolataDz/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/SpaceMono/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/Meslo Dotted/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/FiraMono/LICENSE.txt
+/Users/omarjuarezurbina/fonts_shell/fonts-master/DroidSansMonoSlashed/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/twxs.cmake-0.0.17/node_modules/peg-cmake/test/CMakeLists.txt
+/Users/omarjuarezurbina/.vscode/extensions/twxs.cmake-0.0.17/node_modules/opener/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/twxs.cmake-0.0.17/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.17/dist/intellicode.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.17/ThirdPartyNotice.txt
+/Users/omarjuarezurbina/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.17/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/teabyii.ayu-1.0.5/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/redhat.java-1.3.0/jre/17.0.1-macosx-x86_64/conf/security/policy/README.txt
+/Users/omarjuarezurbina/.vscode/extensions/redhat.java-1.3.0/dist/extension.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/redhat.java-1.3.0/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/zhuangtongfa.material-theme-3.13.19/temp/flag.txt
+/Users/omarjuarezurbina/.vscode/extensions/zhuangtongfa.material-theme-3.13.19/node_modules/marked/man/marked.1.txt
+/Users/omarjuarezurbina/.vscode/extensions/zhuangtongfa.material-theme-3.13.19/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ritwickdey.liveserver-5.7.4/node_modules/signal-exit/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ritwickdey.liveserver-5.7.4/node_modules/vsls/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ritwickdey.liveserver-5.7.4/node_modules/bcryptjs/tests/quickbrown.txt
+/Users/omarjuarezurbina/.vscode/extensions/ritwickdey.liveserver-5.7.4/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.13/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.13/autogenerated/cpp_scopes.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode.cpptools-themes-1.0.0/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-test-0.34.0/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-test-0.34.0/dist/extension.bundle.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-test-0.34.0/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-azuretools.vscode-docker-1.19.0/dist/compose-language-service/lib/server.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-azuretools.vscode-docker-1.19.0/dist/extension.bundle.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.70.0/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.1.0/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-pack-0.21.0/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-pack-0.21.0/out/extension.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-pack-0.21.0/out/assets/ext-guide/index.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-pack-0.21.0/out/assets/classpath/index.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-pack-0.21.0/out/assets/formatter-settings/index.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-pack-0.21.0/out/assets/java-runtime/index.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-pack-0.21.0/out/assets/welcome/index.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-pack-0.21.0/out/assets/overview/index.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-pack-0.21.0/out/assets/beginner-tips/index.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-pack-0.21.0/out/assets/install-jdk/index.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-pack-0.21.0/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-containers-0.217.2/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-containers-0.217.2/dist/node_modules/vscode-dev-containers/containers/python-3-miniconda/.devcontainer/noop.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-containers-0.217.2/dist/node_modules/vscode-dev-containers/containers/python-3-miniconda-postgres/.devcontainer/noop.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-containers-0.217.2/dist/node_modules/vscode-dev-containers/containers/python-3-anaconda-postgres/.devcontainer/noop.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-containers-0.217.2/dist/node_modules/vscode-dev-containers/containers/python-3-anaconda/.devcontainer/noop.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-containers-0.217.2/dev-containers-user-cli/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-containers-0.217.2/dev-containers-user-cli/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-containers-0.217.2/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-dependency-0.19.0/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-dependency-0.19.0/dist/extension.bundle.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-dependency-0.19.0/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/cschlosser.doxdocgen-1.3.2/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-maven-0.35.0/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-maven-0.35.0/dist/extension.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-maven-0.35.0/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode.cmake-tools-1.9.2/NOTICE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode.cmake-tools-1.9.2/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-containers-0.217.4/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-containers-0.217.4/dist/node_modules/vscode-dev-containers/containers/python-3-miniconda/.devcontainer/noop.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-containers-0.217.4/dist/node_modules/vscode-dev-containers/containers/python-3-miniconda-postgres/.devcontainer/noop.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-containers-0.217.4/dist/node_modules/vscode-dev-containers/containers/python-3-anaconda-postgres/.devcontainer/noop.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-containers-0.217.4/dist/node_modules/vscode-dev-containers/containers/python-3-anaconda/.devcontainer/noop.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-containers-0.217.4/dev-containers-user-cli/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-containers-0.217.4/dev-containers-user-cli/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-containers-0.217.4/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.11/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.11/autogenerated/cpp_scopes.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode.cpptools-1.8.4/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode.cpptools-1.8.4/bin/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode.cpptools-1.8.4/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode.cpptools-1.8.4/debugAdapters/lldb/ThirdPartyNotices.LLVM.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode.cpptools-1.8.4/debugAdapters/lldb/version.txt
+/Users/omarjuarezurbina/.vscode/extensions/shan.code-settings-sync-3.4.3/install_local.txt
+/Users/omarjuarezurbina/.vscode/extensions/shan.code-settings-sync-3.4.3/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-debug-0.38.0/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-debug-0.38.0/dist/extension.js.LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/vscjava.vscode-java-debug-0.38.0/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-ssh-0.70.0/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-ssh-0.70.0/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-wsl-0.64.2/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/.vscode/extensions/ms-vscode-remote.remote-wsl-0.64.2/LICENSE.txt
+/Users/omarjuarezurbina/.vscode/extensions/editorconfig.editorconfig-0.16.4/ThirdPartyNotices.txt
+/Users/omarjuarezurbina/apache-maven-3.6.3/lib/ext/README.txt
+/Users/omarjuarezurbina/apache-maven-3.6.3/lib/jansi-native/README.txt
+/Users/omarjuarezurbina/apache-maven-3.6.3/README.txt

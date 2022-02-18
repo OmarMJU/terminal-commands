@@ -1,0 +1,5 @@
+07-Fundamentos_JS//promesasPt2.js
+07-Fundamentos_JS//var_let/js/main.js
+07-Fundamentos_JS//VerdadOcultaDeClasesJS.js
+07-Fundamentos_JS//simon-dice_Proyect/js/main.js
+07-Fundamentos_JS//promesas.js
